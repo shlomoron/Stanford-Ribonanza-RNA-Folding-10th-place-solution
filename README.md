@@ -4,7 +4,7 @@ This repository contains my solution (10th place, gold medal) for the Kaggle com
 
 ## The steps to reproduce my solution
 ### 1. Turning the prone-to-OOM errors CSV into friendly NP arrays
-This is [done here](https://www.kaggle.com/code/shlomoron/srrf-solution-1-csv-to-np)
+This is [done here](https://www.kaggle.com/code/shlomoron/srrf-solution-1-csv-to-np).
 ### 2. Turning the data into TFRecords
 This is [done here](https://www.kaggle.com/code/shlomoron/srrf-solution-2-tfrecords). The data include the competition's training data, given bpps, and CapR values for the sequences. I calculated the CapR values using [ratthachat's notebook](https://www.kaggle.com/code/ratthachat/preprocessing-deep-learning-input-from-rna-string). You can find the CapR values dataset [here](https://www.kaggle.com/datasets/shlomoron/srrf-train-set-capr).
 ### 3. Training the models
