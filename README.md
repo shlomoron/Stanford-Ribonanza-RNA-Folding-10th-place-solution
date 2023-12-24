@@ -14,3 +14,5 @@ This is less interesting. I will just give some details about ensembling: I ense
 ## Acknowledgements
 My model is based on Hoyso's solution to the ISLR competition; see [HERE](https://www.kaggle.com/competitions/asl-signs/discussion/406684) and [HERE](https://www.kaggle.com/competitions/asl-signs/discussion/406978). I also used [ratthachat's notebook](https://www.kaggle.com/code/ratthachat/preprocessing-deep-learning-input-from-rna-string) for CapR values as I mentioned before.
 
+[A summary in the Kaggle forum](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/discussion/463352)
+
