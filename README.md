@@ -1,6 +1,6 @@
 # Stanford-Ribonanza-RNA-Folding-10th-place-solution
 This repository contains my solution (10th place, gold medal) for the Kaggle competition of [Stanford Ribonanza RNA Folding
-](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding) (ASLFR).   
+](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding) (SRRF).   
 
 ## The steps to reproduce my solution
 ### 1. Turning the prone-to-OOM errors CSV into friendly NP arrays
